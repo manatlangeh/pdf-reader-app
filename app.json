@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "PDF Reader",
+    "slug": "pdf-reader-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/playstore.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "icon": {
+        "sizes": [16, 32, 120, 180, 1024],
+        "url": "./assets/playstore.png"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/playstore.png",
+        "backgroundColor": "#000000"
+      },
+      "icon": "./assets/playstore.png",
+      "package": "com.pdfreader.app",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-document-picker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    }
+  }
+}
