@@ -1,0 +1,26 @@
+GitHub Repository Setup Instructions:
+
+1. Go to https://github.com
+2. Sign in to your GitHub account
+3. Click the "+" button in the top right corner
+4. Select "New repository"
+5. Fill in the repository details:
+   - Repository name: pdf-reader-app
+   - Description: PDF Reader App with Expo
+   - Keep it public
+   - Don't initialize with README
+6. Click "Create repository"
+7. Copy the repository URL (it will look like: https://github.com/YOUR_USERNAME/pdf-reader-app.git)
+8. In your local project directory:
+   - Open GitHub Desktop
+   - Click "+" in the top left
+   - Select "Add Local Repository"
+   - Navigate to: c:\Users\manat\Documents\coding\book pdf\pdf-reader-app
+   - Click "Choose"
+   - Click "Publish branch"
+   - In the dialog:
+     - Repository name: pdf-reader-app
+     - Description: PDF Reader App with Expo
+     - Keep it public
+     - Click "Publish branch"
+9. Click "Push origin" in GitHub Desktop
