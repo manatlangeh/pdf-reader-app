@@ -1,7 +1,7 @@
 # PDF Reader App
 
 A minimalist PDF reader application built with Expo and React Native.
-
+ 
 ## Features
 
 - PDF upload and viewing
